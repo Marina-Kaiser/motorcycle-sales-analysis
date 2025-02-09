@@ -5,3 +5,6 @@ This SQL project analyzes wholesale revenue by product line across different mon
 - Filters only **wholesale orders**.
 
 **Tools Used:** SQL  
+
+## Query Results 📊
+The results of the SQL query are stored in [motorcycle_sales_results.csv](./motorcycle_sales_results.csv).
